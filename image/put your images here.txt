@@ -1,0 +1,4 @@
+the images must be named as fellows:
+sol.jpg ==> for the ground
+mur.jpg ==> for the walls
+obj.jpg ==> for the objects
